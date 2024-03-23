@@ -1,8 +1,9 @@
 {
-  "name": "imagerotator-vue-example",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "@webrotate360/imagerotator-vue-example",
+  "version": "1.0.0",
+  "description": "Example integration of WebRotate 360 Product Viewer Runtime in Vue.js",
+  "author": "WebRotate 360 LLC",
+  "license": "See license in EULA.pdf",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
