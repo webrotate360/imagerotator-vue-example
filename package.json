@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@webrotate360/imagerotator": "^5.0.1",
+    "@webrotate360/imagerotator": "^5.3.0",
     "vue": "^3.3.11"
   },
   "devDependencies": {
